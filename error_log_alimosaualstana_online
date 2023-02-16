@@ -1,0 +1,73 @@
+[01-Feb-2023 18:43:46 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: جدول الحدث غير موجود., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[01-Feb-2023 19:41:33 UTC] Sync process for Gutenberg Blocks has started.
+[01-Feb-2023 19:41:33 UTC] CATEGORY:Importing categories..
+[01-Feb-2023 19:41:33 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[01-Feb-2023 19:41:33 UTC] CATEGORY:Completed category import.
+[01-Feb-2023 19:41:33 UTC] BLOCK: Getting Total Blocks
+[01-Feb-2023 19:41:33 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[01-Feb-2023 19:41:33 UTC] BLOCK: Requests count 4
+[01-Feb-2023 19:41:33 UTC] BLOCK: Importing request 1 ..
+[01-Feb-2023 19:41:33 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[01-Feb-2023 19:41:33 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[01-Feb-2023 19:41:34 UTC] BLOCK: Completed request 1
+[01-Feb-2023 19:41:34 UTC] BLOCK: Importing request 2 ..
+[01-Feb-2023 19:41:34 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[01-Feb-2023 19:41:34 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[01-Feb-2023 19:41:34 UTC] BLOCK: Completed request 2
+[01-Feb-2023 19:41:34 UTC] BLOCK: Importing request 3 ..
+[01-Feb-2023 19:41:34 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[01-Feb-2023 19:41:34 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[01-Feb-2023 19:41:34 UTC] BLOCK: Completed request 3
+[01-Feb-2023 19:41:34 UTC] BLOCK: Importing request 4 ..
+[01-Feb-2023 19:41:34 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[01-Feb-2023 19:41:34 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[01-Feb-2023 19:41:34 UTC] BLOCK: Completed request 4
+[01-Feb-2023 19:41:34 UTC] SITE: Getting Total Sites
+[01-Feb-2023 19:41:34 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[01-Feb-2023 19:41:34 UTC] SITE: Request count 2
+[01-Feb-2023 19:41:34 UTC] SITE: Importing request 1 ..
+[01-Feb-2023 19:41:34 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[01-Feb-2023 19:41:34 UTC] SITE: Storing in option ast-block-templates-sites-1
+[01-Feb-2023 19:41:34 UTC] SITE: Completed request 1
+[01-Feb-2023 19:41:34 UTC] SITE: Importing request 2 ..
+[01-Feb-2023 19:41:34 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[01-Feb-2023 19:41:34 UTC] SITE: Storing in option ast-block-templates-sites-2
+[01-Feb-2023 19:41:34 UTC] SITE: Completed request 2
+[01-Feb-2023 19:41:34 UTC] Sync process for Gutenberg Blocks is done.
+[04-Feb-2023 16:29:17 UTC] Sync process for Gutenberg Blocks has started.
+[04-Feb-2023 16:29:17 UTC] CATEGORY:Importing categories..
+[04-Feb-2023 16:29:17 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[04-Feb-2023 16:29:17 UTC] CATEGORY:Completed category import.
+[04-Feb-2023 16:29:17 UTC] BLOCK: Getting Total Blocks
+[04-Feb-2023 16:29:17 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[04-Feb-2023 16:29:17 UTC] BLOCK: Requests count 4
+[04-Feb-2023 16:29:17 UTC] BLOCK: Importing request 1 ..
+[04-Feb-2023 16:29:17 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[04-Feb-2023 16:29:17 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[04-Feb-2023 16:29:17 UTC] BLOCK: Completed request 1
+[04-Feb-2023 16:29:17 UTC] BLOCK: Importing request 2 ..
+[04-Feb-2023 16:29:17 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[04-Feb-2023 16:29:17 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[04-Feb-2023 16:29:17 UTC] BLOCK: Completed request 2
+[04-Feb-2023 16:29:17 UTC] BLOCK: Importing request 3 ..
+[04-Feb-2023 16:29:17 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[04-Feb-2023 16:29:17 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[04-Feb-2023 16:29:17 UTC] BLOCK: Completed request 3
+[04-Feb-2023 16:29:17 UTC] BLOCK: Importing request 4 ..
+[04-Feb-2023 16:29:17 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[04-Feb-2023 16:29:17 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[04-Feb-2023 16:29:17 UTC] BLOCK: Completed request 4
+[04-Feb-2023 16:29:17 UTC] SITE: Getting Total Sites
+[04-Feb-2023 16:29:17 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[04-Feb-2023 16:29:17 UTC] SITE: Request count 2
+[04-Feb-2023 16:29:17 UTC] SITE: Importing request 1 ..
+[04-Feb-2023 16:29:17 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[04-Feb-2023 16:29:17 UTC] SITE: Storing in option ast-block-templates-sites-1
+[04-Feb-2023 16:29:17 UTC] SITE: Completed request 1
+[04-Feb-2023 16:29:17 UTC] SITE: Importing request 2 ..
+[04-Feb-2023 16:29:17 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[04-Feb-2023 16:29:18 UTC] SITE: Storing in option ast-block-templates-sites-2
+[04-Feb-2023 16:29:18 UTC] SITE: Completed request 2
+[04-Feb-2023 16:29:18 UTC] Sync process for Gutenberg Blocks is done.
+[05-Feb-2023 03:48:03 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: جدول الحدث غير موجود., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[06-Feb-2023 14:20:43 UTC] Cron reschedule event error for hook: wpforms_email_summaries_cron, Error code: invalid_schedule, Error message: جدول الحدث غير موجود., Data: {"schedule":"wpforms_email_summaries_weekly","args":[],"interval":604800}
